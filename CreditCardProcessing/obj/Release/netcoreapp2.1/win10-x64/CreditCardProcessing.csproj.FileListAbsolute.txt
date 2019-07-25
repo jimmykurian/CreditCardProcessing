@@ -1,0 +1,28 @@
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\bin\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.exe
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\bin\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.deps.json
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\bin\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.runtimeconfig.json
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\bin\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.runtimeconfig.dev.json
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\bin\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.dll
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\bin\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.pdb
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\obj\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.csprojAssemblyReference.cache
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\obj\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.csproj.CoreCompileInputs.cache
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\obj\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.AssemblyInfoInputs.cache
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\obj\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.AssemblyInfo.cs
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\obj\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.dll
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\obj\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.pdb
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\bin\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.exe
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\bin\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.deps.json
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\bin\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.runtimeconfig.json
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\bin\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.runtimeconfig.dev.json
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\bin\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.dll
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\bin\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.pdb
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\obj\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.csprojAssemblyReference.cache
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\obj\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.csproj.CoreCompileInputs.cache
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\obj\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.AssemblyInfoInputs.cache
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\obj\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.AssemblyInfo.cs
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\obj\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.dll
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessing\obj\Release\netcoreapp2.1\win10-x64\CreditCardProcessing.pdb

@@ -1,0 +1,34 @@
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\bin\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.deps.json
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\bin\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.runtimeconfig.json
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\bin\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.runtimeconfig.dev.json
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\bin\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.dll
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\bin\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.pdb
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\obj\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.csprojAssemblyReference.cache
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\obj\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.csproj.CoreCompileInputs.cache
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\obj\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.AssemblyInfoInputs.cache
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\obj\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.AssemblyInfo.cs
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\obj\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.dll
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\obj\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.pdb
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\bin\Debug\netcoreapp2.1\CreditCardProcessing.dll
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\bin\Debug\netcoreapp2.1\CreditCardProcessing.pdb
+D:\C# Projects\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\obj\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.csproj.CopyComplete
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\bin\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.deps.json
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\bin\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.runtimeconfig.json
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\bin\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.runtimeconfig.dev.json
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\bin\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.dll
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\bin\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.pdb
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\bin\Debug\netcoreapp2.1\CreditCardProcessing.dll
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\bin\Debug\netcoreapp2.1\CreditCardProcessing.pdb
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\obj\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.csprojAssemblyReference.cache
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\obj\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\obj\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.AssemblyInfoInputs.cache
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\obj\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.AssemblyInfo.cs
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\obj\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.csproj.CopyComplete
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\obj\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.dll
+C:\Users\rr828012\Desktop\Credit Card Processing\Credit Card Processing\CreditCardProcessing\CreditCardProcessingUnitTests\obj\Debug\netcoreapp2.1\CreditCardProcessingUnitTests.pdb

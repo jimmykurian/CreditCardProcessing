@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rr828012\\Desktop\\Credit Card Processing\\Credit Card Processing\\CreditCardProcessing\\CreditCardProcessingUnitTests\\CreditCardProcessingUnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rr828012\\Desktop\\Credit Card Processing\\Credit Card Processing\\CreditCardProcessing\\CreditCardProcessingUnitTests\\CreditCardProcessingUnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rr828012\\Desktop\\Credit Card Processing\\Credit Card Processing\\CreditCardProcessing\\CreditCardProcessingUnitTests\\CreditCardProcessingUnitTests.csproj",
+        "projectName": "CreditCardProcessingUnitTests",
+        "projectPath": "C:\\Users\\rr828012\\Desktop\\Credit Card Processing\\Credit Card Processing\\CreditCardProcessing\\CreditCardProcessingUnitTests\\CreditCardProcessingUnitTests.csproj",
+        "packagesPath": "C:\\Users\\rr828012\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rr828012\\Desktop\\Credit Card Processing\\Credit Card Processing\\CreditCardProcessing\\CreditCardProcessingUnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rr828012\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dfsarc.pkgs.visualstudio.com/_packaging/DFSArc-NugetFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\rr828012\\Desktop\\Credit Card Processing\\Credit Card Processing\\CreditCardProcessing\\CreditCardProcessing\\CreditCardProcessing.csproj": {
+                "projectPath": "C:\\Users\\rr828012\\Desktop\\Credit Card Processing\\Credit Card Processing\\CreditCardProcessing\\CreditCardProcessing\\CreditCardProcessing.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.12.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\rr828012\\Desktop\\Credit Card Processing\\Credit Card Processing\\CreditCardProcessing\\CreditCardProcessing\\CreditCardProcessing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rr828012\\Desktop\\Credit Card Processing\\Credit Card Processing\\CreditCardProcessing\\CreditCardProcessing\\CreditCardProcessing.csproj",
+        "projectName": "CreditCardProcessing",
+        "projectPath": "C:\\Users\\rr828012\\Desktop\\Credit Card Processing\\Credit Card Processing\\CreditCardProcessing\\CreditCardProcessing\\CreditCardProcessing.csproj",
+        "packagesPath": "C:\\Users\\rr828012\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rr828012\\Desktop\\Credit Card Processing\\Credit Card Processing\\CreditCardProcessing\\CreditCardProcessing\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rr828012\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dfsarc.pkgs.visualstudio.com/_packaging/DFSArc-NugetFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
