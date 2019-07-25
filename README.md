@@ -7,8 +7,8 @@
 1.  Navigate to: *CreditCardProcessing\CreditCardProcessing\bin\Release\netcoreapp2.1\win10-x64*
     
 2.  In Command Prompt or Terminal you can run either commands: 
-*Command Line Args:* `CreditCardProcessing.exe test.txt`
-*STDIN:* `CreditCardProcessing.exe. < test.txt` 
+> *Command Line Args:* `CreditCardProcessing.exe test.txt`
+> *STDIN:* `CreditCardProcessing.exe. < test.txt`
 
 I provide a text file named *test.txt* in that directory like the one in the directions that will display the requested output when executed with CreditCardProcessing.exe 
 
